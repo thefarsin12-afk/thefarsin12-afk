@@ -1,6 +1,6 @@
 # Hi, I'm Farsin 👋
 
-### Python Developer | Django REST Framework | MySQL
+### Ai Integrated | Python Django Full Stack Developer | ReactJS
 
 I'm a developer focused on building practical web applications and REST APIs. I'm continuously improving my programming skills and exploring backend development.
 
