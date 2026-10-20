@@ -19,6 +19,8 @@ I'm a developer focused on building practical web applications and REST APIs. I'
 
 **Backend:** Django · Django REST Framework
 
+**Frontend:** HTML, CSS, React.js
+
 **Database:** MySQL
 
 **Tools:** Git · GitHub · VS Code
