@@ -27,9 +27,9 @@ I'm a developer focused on building practical web applications and REST APIs. I'
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💰 Spend Wise — Expense Tracker
+### Spend Wise — Expense Tracker
 
 A personal expense management application for tracking expenses, analyzing spending patterns, and planning budgets.
 
@@ -42,7 +42,7 @@ A personal expense management application for tracking expenses, analyzing spend
 
 🔗 [View Repository](https://github.com/thefarsin12-afk/Spend_Wise)
 
-### 🍎 Fit Wise — Calorie Tracker
+### Fit Wise — Calorie Tracker
 
 A calorie tracking application for managing meals, monitoring calorie intake, and supporting diet planning.
 
