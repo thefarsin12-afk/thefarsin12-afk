@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Untitled-1.png" alt="Muhammed Farsin M Banner" width="100%">
+  <img src="banner.png" alt="Muhammed Farsin M Banner" width="100%">
 </p>
 
 ---
