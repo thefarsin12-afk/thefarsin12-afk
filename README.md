@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Untitled-1.png" alt="Muhammed Farsin M Banner" width="100%">
+</p>
+
+---
 # Hi, I'm Farsin 👋
 
 ### Ai Integrated | Python Django Full Stack Developer | ReactJS
