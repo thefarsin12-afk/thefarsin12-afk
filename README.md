@@ -77,17 +77,8 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/thefarsin12-afk">
-    <img src="https://img.shields.io/badge/GitHub%20Profile-thefarsin12--afk-00A3FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://github.com/thefarsin12-afk?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Active-00A3FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefarsin12-afk&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefarsin12-afk&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=00A3FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img src="https://readme-stats.vercel.app/api?username=thefarsin12-afk&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://readme-stats.vercel.app/api/top-langs/?username=thefarsin12-afk&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=00A3FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
