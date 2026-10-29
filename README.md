@@ -84,7 +84,7 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thefarsin12-afk&theme=transparent&hide_border=true&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF" alt="GitHub Streak Stats" width="70%" />
 </p>
----
+
 
 ## 🎯 CURRENTLY FOCUSING ON
 
