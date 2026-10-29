@@ -5,7 +5,7 @@
 ---
 # Hi, I'm Farsin 👋
 
-### AI-Integrated Python Django Developer Trainee | Django REST Framework | MySQL | REST APIs
+### AI-Integrated Python Django Full Stack Developer Trainee | Django REST Framework | React.js | MySQL
 
 I'm a developer focused on building practical web applications and REST APIs. I'm continuously improving my programming skills and exploring backend development.
 
