@@ -1,10 +1,10 @@
-<p align="center">
+ <p align="center">
   <img src="banner.png" alt="Muhammed Farsin M Banner" width="100%">
 </p>
 
 # Hi, I'm Farsin 👋
 
-### AI-Integrated Python Django Full Stack Developer Trainee | Django REST Framework | React.js | MySQL
+### AI-Integrated Python Django Full Stack Developer Trainee | Django REST Framework | MySQL
 
 I'm a developer focused on building practical web applications and REST APIs. I'm continuously improving my programming skills and exploring backend development.
 
@@ -33,9 +33,6 @@ I'm a developer focused on building practical web applications and REST APIs. I'
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=00A3FF" />
   <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=00A3FF" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-111827?style=flat-square&logo=django&logoColor=00A3FF" />
-  <img src="https://img.shields.io/badge/React.js-111827?style=flat-square&logo=react&logoColor=00A3FF" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=00A3FF" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=00A3FF" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=00A3FF" />
 </p>
 
@@ -47,7 +44,7 @@ I'm a developer focused on building practical web applications and REST APIs. I'
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00A3FF" />
 </p>
 
-## Featured Projects
+## 🚀 FEATURED PROJECTS
 
 ### Spend Wise — Expense Tracker
 
@@ -80,11 +77,17 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="YOUR_GITHUB_STATS_IMAGE_URL" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thefarsin12-afk&show_icons=true&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=thefarsin12-afk&theme=transparent&hide_border=true&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF" alt="GitHub Streak Stats" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefarsin12-afk&layout=compact&theme=transparent&hide_border=true&title_color=00A3FF&text_color=FFFFFF" alt="Top Languages" />
+</p>
+
 ---
 
-## 🎯 Currently Focusing On
+## 🎯 CURRENTLY FOCUSING ON
 
 - Strengthening Python and Django REST Framework skills
 - Improving SQL queries and database design
