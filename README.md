@@ -80,11 +80,8 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefarsin12-afk&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefarsin12-afk&theme=dark" alt="GitHub Streak" />
+  <img src="YOUR_GITHUB_STATS_IMAGE_URL" alt="GitHub Stats" />
 </p>
-
 ---
 
 ## 🎯 Currently Focusing On
