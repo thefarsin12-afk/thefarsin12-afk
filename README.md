@@ -16,8 +16,6 @@ I'm a developer focused on building practical web applications and REST APIs. I'
 - 📫 Email: [thefarsin12@gmail.com](mailto:thefarsin12@gmail.com)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/thefarsii/)
 
----
-
 ## 🌐 Socials:
 
 <p>
@@ -30,8 +28,6 @@ I'm a developer focused on building practical web applications and REST APIs. I'
   <a href="https://www.facebook.com/share/1JC46zqjqG/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
----
-
 ## 🛠️ Tech Stack:
 
 <p>
@@ -42,10 +38,7 @@ I'm a developer focused on building practical web applications and REST APIs. I'
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
- </p>
-
----
-
+</p>
 
 ## 🛠️ Tools
 
@@ -54,8 +47,6 @@ I'm a developer focused on building practical web applications and REST APIs. I'
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
 
 ## Featured Projects
 
