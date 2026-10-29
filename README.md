@@ -21,7 +21,7 @@ I'm a developer focused on building practical web applications and REST APIs. I'
   <a href="https://www.linkedin.com/in/thefarsii/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=00A3FF" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thefarsin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=flat-square&logo=gmail&logoColor=00A3FF" /></a>
   <a href="https://github.com/thefarsin12-afk"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00A3FF" /></a>
-  <a href="https://x.com/thefarsii"><img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=00A3FF" /></a>
+  <a href="https://x.com/thefarsii/"><img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=00A3FF" /></a>
   <a href="https://www.instagram.com/thefarsii/"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=00A3FF" /></a>
   <a href="https://www.youtube.com/channel/UC5Upxm4gXwiiL88Bc3_XmRQ"><img src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=00A3FF" /></a>
   <a href="https://www.facebook.com/share/1JC46zqjqG/"><img src="https://img.shields.io/badge/Facebook-111827?style=flat-square&logo=facebook&logoColor=00A3FF" /></a>
@@ -75,6 +75,15 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/thefarsin12-afk">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-thefarsin12--afk-00A3FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/thefarsin12-afk?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Active-00A3FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thefarsin12-afk&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
