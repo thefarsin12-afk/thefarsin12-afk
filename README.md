@@ -88,16 +88,14 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Stats
+
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-3+-00A3FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Profile_Views-Active-00A3FF?style=for-the-badge&logo=github&logoColor=white" alt="Views" />
-  <img src="https://img.shields.io/badge/Main_Language-Python-00A3FF?style=for-the-badge&logo=python&logoColor=white" alt="Language" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefarsin12-afk&theme=dark&background=0d1117&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF&hide_border=true" alt="GitHub Streak Stats" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=thefarsin12-afk&theme=transparent&hide_border=true&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF" alt="GitHub Streak Stats" width="70%" />
+
 </p>
 
 ## 🎯 CURRENTLY FOCUSING ON
