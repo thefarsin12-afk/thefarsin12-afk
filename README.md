@@ -46,6 +46,20 @@ I'm a developer focused on building practical web applications and REST APIs. I'
 
 ## 🚀 FEATURED PROJECTS
 
+### CodePilot — Assessment and Evaluation Management System
+
+A robust backend REST API system designed to manage technical assessments, questions, student submissions, and instructor evaluations.
+
+- Admin and Student role segregation with Token and JWT authentication
+- Assessment CRUD management with automated end-time calculation
+- Question bank handling with automatic sequence numbering
+- Automated email confirmations and profile creation via Django signals
+- Instructor evaluation workflow for awarding marks and feedback
+
+**Tech Stack:** Python · Django REST Framework · MySQL
+
+🔗 [View Repository](https://github.com/thefarsin12-afk/Code_pilot)
+
 ### Spend Wise — Expense Tracker
 
 A personal expense management application for tracking expenses, analyzing spending patterns, and planning budgets.
