@@ -91,14 +91,18 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefarsin12-afk&show_icons=true&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thefarsin12-afk&show_icons=true&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefarsin12-afk&layout=compact&theme=transparent&hide_border=true&title_color=00A3FF&text_color=ffffff" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thefarsin12-afk&theme=transparent&hide_border=true&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF" alt="GitHub Streak Stats" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thefarsin12-afk&repo=Code_pilot&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff" alt="Pin Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thefarsin12-afk&repo=Spend_Wise&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff" alt="Pin Card" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thefarsin12-afk&theme=transparent&hide_border=true&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF" alt="GitHub Streak Stats" width="100%" />
+</p>
 ## 🎯 CURRENTLY FOCUSING ON
 
 - Strengthening Python and Django REST Framework skills
