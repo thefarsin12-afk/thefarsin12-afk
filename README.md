@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Muhammed Farsin M Banner" width="100%">
+  <img src="banner.png" alt="Muhammed Farsin M Banner" width="100%">
 </p>
 
 # Hi, I'm Farsin 👋
@@ -18,33 +18,47 @@ I'm a developer focused on building practical web applications and REST APIs. I'
 ## 🌐 SOCIAL LINKS
 
 <p>
-  <a href="https://www.linkedin.com/in/thefarsii/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=00A3FF" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thefarsin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=flat-square&logo=gmail&logoColor=00A3FF" /></a>
-  <a href="https://github.com/thefarsin12-afk"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00A3FF" /></a>
-  <a href="https://x.com/thefarsii/"><img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=00A3FF" /></a>
-  <a href="https://www.instagram.com/thefarsii/"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=00A3FF" /></a>
-  <a href="https://www.youtube.com/channel/UC5Upxm4gXwiiL88Bc3_XmRQ"><img src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=00A3FF" /></a>
-  <a href="https://www.facebook.com/share/1JC46zqjqG/"><img src="https://img.shields.io/badge/Facebook-111827?style=flat-square&logo=facebook&logoColor=00A3FF" /></a>
+  <a href="https://www.linkedin.com/in/thefarsii/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=00A3FF" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thefarsin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=flat-square&logo=gmail&logoColor=00A3FF" /></a>
+  <a href="https://github.com/thefarsin12-afk"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00A3FF" /></a>
+  <a href="https://x.com/thefarsii/"><img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=00A3FF" /></a>
+  <a href="https://www.instagram.com/thefarsii/"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=00A3FF" /></a>
+  <a href="https://www.youtube.com/channel/UC5Upxm4gXwiiL88Bc3_XmRQ"><img src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=00A3FF" /></a>
+  <a href="https://www.facebook.com/share/1JC46zqjqG/"><img src="https://img.shields.io/badge/Facebook-111827?style=flat-square&logo=facebook&logoColor=00A3FF" /></a>
 </p>
 
 ## 💻 TECH STACK
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=00A3FF" />
-  <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=00A3FF" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-111827?style=flat-square&logo=django&logoColor=00A3FF" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=00A3FF" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=00A3FF" />
+  <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=00A3FF" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-111827?style=flat-square&logo=django&logoColor=00A3FF" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=00A3FF" />
 </p>
 
 ## ⚙️ DEVELOPER TOOLS
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=00A3FF" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=00A3FF" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00A3FF" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=00A3FF" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=00A3FF" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00A3FF" />
 </p>
 
 ## 🚀 FEATURED PROJECTS
+
+### CodePilot — Assessment and Evaluation Management System
+
+A robust backend REST API system designed to manage technical assessments, questions, student submissions, and instructor evaluations.
+
+- Admin and Student role segregation with Token and JWT authentication
+- Assessment CRUD management with automated end-time calculation
+- Question bank handling with automatic sequence numbering
+- Automated email confirmations and profile creation via Django signals
+- Instructor evaluation workflow for awarding marks and feedback
+
+**Tech Stack:** Python · Django REST Framework · MySQL
+
+🔗 [View Repository](https://github.com/thefarsin12-afk/Code_pilot)
 
 ### Spend Wise — Expense Tracker
 
@@ -74,10 +88,15 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thefarsin12-afk&theme=transparent&hide_border=true&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF" alt="GitHub Streak Stats" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thefarsin12-afk&show_icons=true&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefarsin12-afk&layout=compact&theme=transparent&hide_border=true&title_color=00A3FF&text_color=ffffff" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thefarsin12-afk&theme=transparent&hide_border=true&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF" alt="GitHub Streak Stats" width="70%" />
 </p>
 
 ## 🎯 CURRENTLY FOCUSING ON
@@ -90,8 +109,5 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 ---
 
 <p align="center">
-  <i>Build consistently. Improve continuously.</i>
+  <i>Build consistently. Improve continuously.</i>
 </p>
-
-
-add codepilote project
